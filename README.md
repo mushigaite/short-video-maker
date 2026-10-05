@@ -48,7 +48,7 @@ A free open-source project designed to turn youtube-videos into viral short vide
 1. **Clone the repo:**
 
 ```bash
-git clone https://github.com/dakukibana/short-video-generator-AI.git
+git clone https://github.com/mushigaite/short-video-generator-AI.git
 cd short-video-generator-AI
 ```
 
